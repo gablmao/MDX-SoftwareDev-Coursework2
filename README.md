@@ -19,7 +19,7 @@ What this repository should include:
     - The report should have the following sections:
     - Introduction – brief description of the project (not just repeating the coursework task). – a paragraph describing the report layout.
     - Design, including: – justification of selected data structure(s) and algorithms. – analysis of the algorithms which provide the key functionality (using pseudo code, not C++ source code).
-    - Testing, including: – statement of tes�ng approach used (not test code). – table of test cases (not test code).
+    - Testing, including: – statement of testing approach used (not test code). – table of test cases (not test code).
     - Conclusion, including: – summary of work done. – limitations and critical reflection (including what caused the limitations). – how would change approach on similar task in future (should avoid repea�ng mistakes).
     - References – in Harvard style. – must have matching in-text citations.
     
