@@ -129,7 +129,11 @@ public:
 int main() {
     PropertyManagementSystem pms;
 
-    // Adding dummy properties with rent prices
+    // Added dummy info for tenets
+    pms.addTenant(Tenant(1, "Nouar", 1200));
+    pms.addTenant(Tenant(3, "Gabs", 1300));
+
+    // Added dummy info for properties
     pms.addProperty(Property(1, "123 Main St", UnitType::Studio, 1000));
     pms.addProperty(Property(2, "456 Elm St", UnitType::OneBedroom, 1500));
     pms.addProperty(Property(3, "789 Oak St", UnitType::TwoBedroom, 2000));
