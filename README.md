@@ -1,5 +1,5 @@
 # MDX-SoftwareDev-Coursework2
-
+VIDEO LINK HERE BECAUSE IT WAS TOO BIG TO UPLOAD TO THE REPO: https://youtu.be/czAsgUtPpjI
 Team Members: 
 - SCRUM Master = Gabriel Felip Mano Lasig (M00864474)
 - Tester = Jedd Madayag (M00859870 )
