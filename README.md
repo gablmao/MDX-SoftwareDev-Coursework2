@@ -1,28 +1,26 @@
 # MDX-SoftwareDev-Coursework2
 
-What this repository should include:
-- The project management.
-  
-- Meeting minutes.
-  
-- The source code.
-  - The source code should include: 
-    - C++ source code files of your program.
-    - catch2 test code.
-    - A Makefile to compile your program.
-   
-- A readme file to instruct how to compile and run your code with some instructions on how to use your program.
-   
-- A single PDF (.pdf) report – NOT a slideshow, NOT a Word file or any other text-based document.
-  - The report must be no longer than 7 pages (excluding references, cover page and contents page), with a font size of 11 or 12 point.
-  - If your report exceeds 7 pages only the first 7 pages will be marked.
-    - The report should have the following sections:
-    - Introduction – brief description of the project (not just repeating the coursework task). – a paragraph describing the report layout.
-    - Design, including: – justification of selected data structure(s) and algorithms. – analysis of the algorithms which provide the key functionality (using pseudo code, not C++ source code).
-    - Testing, including: – statement of testing approach used (not test code). – table of test cases (not test code).
-    - Conclusion, including: – summary of work done. – limitations and critical reflection (including what caused the limitations). – how would change approach on similar task in future (should avoid repea�ng mistakes).
-    - References – in Harvard style. – must have matching in-text citations.
-    
-- MP4 video demonstratioon of the software.
+Team Members: 
+- Gabriel Felip Mano Lasig (M00864474)
+- Jedd Madayag (M00859870 )
+- Nouar Mahamoud (M00873504)
+- Jettlance Rivera (M00863406)
 
+To compile:
+Using cygwin,
+- first git clone this repository
+- change the directory to the cloned repo
+- type "make" to compile the file (PMS.cpp)
+- to run it, type "./PMS.exe" 
 
+Instruction of program:
+once you run the program, a set of options are given:
+- "1. Add Property";
+- "2. Add Tenant";
+- "3. Lease Property";
+- "4. Repossess Property";
+- "5. Display Properties";
+- "6. Display Tenants";
+- "0. Exit";
+
+  press numbers on your keyboard that correspond to the options.
