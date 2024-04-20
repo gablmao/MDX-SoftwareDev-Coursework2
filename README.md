@@ -1,10 +1,10 @@
 # MDX-SoftwareDev-Coursework2
 
 Team Members: 
-- Gabriel Felip Mano Lasig (M00864474)
-- Jedd Madayag (M00859870 )
-- Nouar Mahamoud (M00873504)
-- Jettlance Rivera (M00863406)
+- SCRUM Master = Gabriel Felip Mano Lasig (M00864474)
+- Tester = Jedd Madayag (M00859870 )
+- Secretary/Software Developer = Nouar Mahamoud (M00873504)
+- Software Developer = Jettlance Rivera (M00863406)
 
 To compile:
 Using cygwin,
@@ -23,4 +23,4 @@ once you run the program, a set of options are given:
 - "6. Display Tenants";
 - "0. Exit";
 
-  press numbers on your keyboard that correspond to the options.
+  press numbers on your keyboard that correspond to the options. further instructions will be shown after.
